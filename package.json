@@ -1,0 +1,19 @@
+{
+  "name": "leosapp",
+  "version": "1.0.0",
+  "description": "unknown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo001/nodeGit.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo001/nodeGit/issues"
+  },
+  "homepage": "https://github.com/leo001/nodeGit#readme"
+}
